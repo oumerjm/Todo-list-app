@@ -20,7 +20,7 @@ h1 {
   text-align: center;
 }
 
-#inputText {
+.input-group {
   display: flex;
   margin-bottom: 15px;
 }
@@ -74,3 +74,4 @@ li button {
 li button:hover {
   background: #c82333;
 }
+
